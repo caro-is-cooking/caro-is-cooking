@@ -1,8 +1,8 @@
 # 🍳 Caro is Cooking
 
-My first project on GitHub — a minimal landing page for **caro-is-cooking**.
+My first project on my new GitHub account — a minimal landing page for **caro-is-cooking**.
 
-Open it in a browser to see a **minimal 8-bit animated scene**: dark brown page, pixel font, and a red-haired cook with green eyes making eggs in a pan. No outlines, no mouth — just flat colors, subtle motion (stirring, steam, blink), and a simple brown frame.
+Open it in a browser to see a **minimal 8-bit animated scene**: dark brown page, pixel font, and a red-haired cook making eggs in a pan. Flat colors, subtle motion (stirring, steam, blink), and a simple frame.
 
 ## What's inside
 
